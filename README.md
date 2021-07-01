@@ -1,6 +1,4 @@
 ### Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=reverie-ss&count_private=true&show_icons=true&hide_rank=true&include_all_commits=true)](https://github.com/reverie-ss/github-readme-stats)
-
 <!--
 **reverie-ss/reverie-ss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
