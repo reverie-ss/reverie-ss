@@ -17,11 +17,9 @@
 
 <!--Intro start-->
 
-- 🌱 I’m currently learning **data analysis, scalability and exploring AI**
+- 🌱 Learning **data analysis, scalability and exploring AI**
 
-- 🔋 I’m currently building **EV Charger Management Solution for Ford Pro Charging**
-
-- 🥳 I’m currently enjoying **everything above**
+- 🔋 Building **EV Charger Management Solution for Ford Pro Charging**
 
 - 📫 Feel free to reach out to me **[ss.saswatsahoo@gmail.com](https://www.linkedin.com/in/reverie-ss/)**
 
